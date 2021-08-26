@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Crxwler
+- 👋 Hi, I’m @Juan Carlos Monreal
 - 👀 I’m interested in Web Development, Machine learning and IA
-- 🌱 I’m currently learning Laravel and Introduction to Machine learning by the University of Duke
+- 🌱 I’m currently learning Laravel and Machine learning 
 - 💞️ I’m looking to collaborate on Web projects or Machine learning projects
-- 📫 How to reach me ...
+- 📫 How to reach me jcmonrealr@gmail.com or via Telegram: https://t.me/jmonreal
 
 <!---
 Crxwler/Crxwler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
